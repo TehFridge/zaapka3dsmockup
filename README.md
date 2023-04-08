@@ -1,7 +1,7 @@
 # zaapka3dsmockup
 dlaszprinka.exe
 
-#Jak zedytować dla własnych potrzeb (debil edition)
+# Jak zedytować dla własnych potrzeb (debil edition)
 
 instaluj kurwa devkitpro (weź tam że nintendo 3ds development) https://github.com/devkitPro/installer/releases
 
