@@ -2,6 +2,7 @@
 dlaszprinka.exe
 
 #Jak zedytować dla własnych potrzeb (debil edition)
+
 instaluj kurwa devkitpro (weź tam że nintendo 3ds development) https://github.com/devkitPro/installer/releases
 
 instaluj kurwa lovebrew https://github.com/lovebrew/lovebrew/releases/tag/0.6.0
